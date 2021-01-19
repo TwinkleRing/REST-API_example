@@ -33,7 +33,7 @@ https://developers.google.com/books/docs/v1/using
 ```
 get https://www.googleapis.com/books/v1/volumes?q=inauthor=귀욤뮈소
 ```
-=> send Request를 클릭해보자.
+응답을 받으려면 send Request를 클릭하기
 <br>
 
 * 결과 :
