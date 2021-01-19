@@ -65,3 +65,10 @@ get https://yts.mx/api/v2/list_movies.json
 
 결과로 인터스텔라가 나왔습니다. <br> <br>
 ![인터](https://user-images.githubusercontent.com/43642411/105035113-d384e780-5a9d-11eb-8eba-c875b39a229a.PNG)
+
+
+## 실습 3 API 인증을 위한 키를 발금 받아 사용. (developer console 활용)
+
+[Kakao Developers](https://developers.kakao.com/)
+
+[Kakao Map API Guide](https://apis.map.kakao.com/web/guide/)
