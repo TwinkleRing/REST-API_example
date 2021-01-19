@@ -29,7 +29,7 @@ get https://www.googleapis.com/books/v1/volumes?q=inauthor=귀욤뮈소
 ```
 send Request 클릭.
 
-![조회](https://user-images.githubusercontent.com/43642411/105028159-05914c00-5a94-11eb-9d4d-842ad740f929.PNG)
+
 <br>
 
 결과 :
@@ -42,4 +42,3 @@ send Request 클릭.
 get https://www.googleapis.com/books/v1/volumes?q=isbn=9791158883591
 ```
 
-![isbn](https://user-images.githubusercontent.com/43642411/105028421-5acd5d80-5a94-11eb-8937-3ecca3a0b91d.PNG)
