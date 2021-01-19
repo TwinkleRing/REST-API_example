@@ -63,5 +63,5 @@ get https://yts.mx/api/v2/list_movies.json
  &genre=Sci-Fi
 ```
 
-결과로 인터스텔라가 나왔습니다. <br>
+결과로 인터스텔라가 나왔습니다. <br> <br>
 ![인터](https://user-images.githubusercontent.com/43642411/105035113-d384e780-5a9d-11eb-8eba-c875b39a229a.PNG)
