@@ -23,7 +23,11 @@ REST API의 구성 요소
 
 Vscode에서 REST Client 확장 설치
 
-1. 책 제목으로 조회
+1. 책 저자 이름로 조회하기
 ```
-get https://www.googleapis.com/books/v1/volumes?q=intitle=로버트기요사키
+get https://www.googleapis.com/books/v1/volumes?q=inauthor=귀욤뮈소
 ```
+
+
+결과 :
+![저자](https://user-images.githubusercontent.com/43642411/105027943-bc40fc80-5a93-11eb-96ca-53d56f9581a6.PNG)
