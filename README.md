@@ -35,4 +35,11 @@ send Request 클릭.
 결과 :
 ![저자](https://user-images.githubusercontent.com/43642411/105027943-bc40fc80-5a93-11eb-96ca-53d56f9581a6.PNG)
 
+<br>
+
 3. 책 고유번호인 isbn으로 조회하기.
+```
+get https://www.googleapis.com/books/v1/volumes?q=isbn=9791158883591
+```
+
+![isbn](https://user-images.githubusercontent.com/43642411/105028421-5acd5d80-5a94-11eb-8937-3ecca3a0b91d.PNG)
