@@ -69,11 +69,11 @@ get https://yts.mx/api/v2/list_movies.json
 
 ## 실습 3 API 인증을 위한 키를 발급 받아 사용하기. (developer console 활용)
 
-[Kakao Developers](https://developers.kakao.com/)
+1. [Kakao Developers](https://developers.kakao.com/)에서 애플리케이션 추가하고 API 인증키 발급 받기. 
+2. [Insomnia REST Client](https://insomnia.rest/) 설치하기.
+2. [Kakao Map API Guide](https://apis.map.kakao.com/web/guide/) 에서 실제 지도를 그리는 Javascript API를 불러오는 URL 확인하기. <br>
 
-[Kakao Map API Guide](https://apis.map.kakao.com/web/guide/)
-
-![지도1](https://user-images.githubusercontent.com/43642411/105037331-2b711d80-5aa1-11eb-9b5b-44ff93a98a33.PNG)
+![지도 캡쳐](https://user-images.githubusercontent.com/43642411/105038048-2f516f80-5aa2-11eb-8487-dc8f1e1d46ba.PNG)
 
 
 
