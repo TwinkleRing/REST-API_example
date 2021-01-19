@@ -34,7 +34,7 @@ https://developers.google.com/books/docs/v1/using
 get https://www.googleapis.com/books/v1/volumes?q=inauthor=귀욤뮈소
 ```
 
-* send Request를 클릭해보자.
+3. send Request를 클릭해보자.
 
 <br>
 
