@@ -27,8 +27,8 @@ REST API의 구성 요소
 ```
 get https://www.googleapis.com/books/v1/volumes?q=inauthor=귀욤뮈소
 ```
-send Request 클릭.
 
+* send Request를 클릭해보자.
 
 <br>
 
