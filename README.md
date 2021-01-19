@@ -2,7 +2,7 @@
 
 REST(Representational State Transfer): HTTP 에서 필요한 자원에 접근할 때 웹의 장점을 최대한 활용하기 위한 아키텍쳐
 
-REST API의 구성 요소
+#### REST API의 구성 요소
 1. http Method
   * GET = 데이터 조회
   * POST = 새로운 데이터 추가
@@ -14,7 +14,7 @@ REST API의 구성 요소
 3. Representation : 자원의 표현
 
 
-REST API의 자원 표현을 위한 URL 설계 규칙
+#### REST API의 자원 표현을 위한 URL 설계 규칙
 1. 소문자만 사용
 2. 하이픈[-]은 사용하지 않고 밑줄[_]을 사용.
 3. 확장자를 표시하지 않음.
