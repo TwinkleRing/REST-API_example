@@ -71,7 +71,7 @@ get https://yts.mx/api/v2/list_movies.json
 
 1. [Kakao Developers](https://developers.kakao.com/)에서 애플리케이션 추가하고 API 인증키 발급 받기. 
 2. [Insomnia REST Client](https://insomnia.rest/) 설치하기.
-2. [Kakao Map API Guide](https://apis.map.kakao.com/web/guide/) 에서 실제 지도를 그리는 Javascript API를 불러오는 URL 확인하기. <br>
+2. [Kakao Map API Guide](https://apis.map.kakao.com/web/guide/) 에서 실제 지도를 그리는 Javascript API를 불러오는 URL 체크. <br>
 
 ![지도 캡쳐](https://user-images.githubusercontent.com/43642411/105038048-2f516f80-5aa2-11eb-8487-dc8f1e1d46ba.PNG)
 
