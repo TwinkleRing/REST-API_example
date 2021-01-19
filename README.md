@@ -67,13 +67,15 @@ get https://yts.mx/api/v2/list_movies.json
 ![인터](https://user-images.githubusercontent.com/43642411/105035113-d384e780-5a9d-11eb-8eba-c875b39a229a.PNG)
 
 
-## 실습 3 API 인증을 위한 키를 발급 받아 사용. (developer console 활용)
+## 실습 3 API 인증을 위한 키를 발급 받아 사용하기. (developer console 활용)
 
 [Kakao Developers](https://developers.kakao.com/)
 
 [Kakao Map API Guide](https://apis.map.kakao.com/web/guide/)
 
-![카카오지도](https://user-images.githubusercontent.com/43642411/105037102-d0d7c180-5aa0-11eb-82cd-4364c07921ce.PNG)
+![지도1](https://user-images.githubusercontent.com/43642411/105037331-2b711d80-5aa1-11eb-9b5b-44ff93a98a33.PNG)
+
+
 
 
 
