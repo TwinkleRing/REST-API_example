@@ -21,13 +21,15 @@ REST API의 구성 요소
 
 ---
 
-Vscode에서 REST Client 확장 설치
+1. Vscode에서 REST Client 확장 설치하고 파일을 http 확장자로 만든다.
 
-1. 책 저자 이름로 조회하기
+2. 책 저자 이름로 조회하기.
 ```
 get https://www.googleapis.com/books/v1/volumes?q=inauthor=귀욤뮈소
 ```
-
-
+send Request 클릭.
+![조회](https://user-images.githubusercontent.com/43642411/105028159-05914c00-5a94-11eb-9d4d-842ad740f929.PNG) <br>
 결과 :
 ![저자](https://user-images.githubusercontent.com/43642411/105027943-bc40fc80-5a93-11eb-96ca-53d56f9581a6.PNG)
+
+3. 책 고유번호인 isbn으로 조회하기.
