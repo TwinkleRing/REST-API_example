@@ -38,7 +38,7 @@ get https://www.googleapis.com/books/v1/volumes?q=inauthor=귀욤뮈소
 
 <br>
 
-결과 :
+* 결과 :
 ![저자](https://user-images.githubusercontent.com/43642411/105027943-bc40fc80-5a93-11eb-96ca-53d56f9581a6.PNG)
 
 <br>
