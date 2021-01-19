@@ -1,0 +1,31 @@
+get https://www.googleapis.com/books/v1/volumes?q=intitle=justice
+
+###
+
+get https://www.googleapis.com/books/v1/volumes?q=inauthor=귀욤뮈소
+
+
+### 
+# isbn은 책마다 고유하게 부여된 국제표준도서번호이다.
+
+get https://www.googleapis.com/books/v1/volumes?q=isbn=9791158883591
+
+###
+# yts Movies APIs
+
+# 영화 정보 리스트를 제공하는 API
+
+
+###
+get https://yts.mx/api/v2/list_movies.json
+
+
+### 
+
+
+파라미터 지정하여 API 호출하기
+get https://yts.mx/api/v2/list_movies.json
+    ?minimum_rating=8.5
+    &sort_by=year
+    &limit=1
+

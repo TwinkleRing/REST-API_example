@@ -1,0 +1,21 @@
+###
+get https://yts.mx/api/v2/list_movies.json
+
+
+### 
+
+
+#파라미터 지정하여 API 호출하기
+get https://yts.mx/api/v2/list_movies.json
+    ?minimum_rating=8.5
+    &sort_by=year
+    &limit=1
+
+### 
+
+# 장르 추가하기
+get https://yts.mx/api/v2/list_movies.json
+ ?minimum_rating=8.5
+ &sort_by=year
+ &limit=5
+ &genre=Sci-Fi
